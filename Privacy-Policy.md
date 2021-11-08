@@ -1,6 +1,7 @@
 **PRIVACY NOTICE**
 
 Last updated November 07, 2021
+
 Thank you for choosing to be part of our community at Veki, Inc., doing business as
 Veki ("Veki," "we," "us," or "our"). We are committed to protecting your personal
 information and your right to privacy. If you have any questions or concerns about
