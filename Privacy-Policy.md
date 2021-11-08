@@ -10,7 +10,7 @@ contact us at tech@veki.fit.
 
 This privacy notice describes how we might use your information if you:
 - Download and use our mobile application — Veki
-- Engage with u.s in other related ways ― including any sales, marketing, or
+- Engage with us in other related ways ― including any sales, marketing, or
 events
 
 In this privacy notice, if we refer to:
@@ -50,7 +50,8 @@ FROM YOU?
 
 **Personal information you disclose to us**
 
-In Short: We collect personal information that you provide to us.We collect personal information that you voluntarily provide to us when you register
+In Short: We collect personal information that you provide to us.We collect personal 
+information that you voluntarily provide to us when you register
 on the App, express an interest in obtaining information about us or our products and
 Services, when you participate in activities on the App or otherwise when you contact
 us.
